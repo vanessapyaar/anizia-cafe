@@ -9318,3 +9318,31 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 	padding-left: 25px;
 	padding-right: 25px;
 }
+
+/* mobile devices */
+
+@media (max-width: 425px) {
+	.header-container.container {
+		height: 92px !important;
+	}
+
+	p.text-3-5.pb-2.mb-4.appear-animation.animated.appear-animation-visible,  h2.text-color-primary.positive-ls-3.text-4.line-height-3.mb-2.appear-animation.animated.appear-animation-visible, h3.text-color-dark.text-transform-none.text-9.line-height-3.font-weight-medium.mb-4.appear-animation.animated.appear-animation-visible, p.text-3-5.pb-2.mb-4.appear-animation.animated.appear-animation-visible {
+		text-align: center;
+	}
+	.btn.btn-px-4 {
+		margin-left: 25%;
+	}
+
+	.bg-color-grey-scale-1{
+		background-color: #0e3f5a !important;
+	}
+	
+	h3.mobile-light.text-transform-none.text-9.line-height-3.font-weight-medium.mb-4.appear-animation.animated.appear-animation-visible {
+	color: white;
+}
+
+.mb-4.text-4 {
+    font-size: 19px !important;
+}
+ 
+}

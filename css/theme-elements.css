@@ -4370,7 +4370,7 @@ html.ie9 .call-to-action.button-centered .container > .row > [class*="col-"], ht
 }
 
 .bg-color-grey-scale-1 {
-	background-color: #EDEDED !important;
+	background-color: #EDEDED;
 }
 
 .bg-color-grey-scale-2 {
