@@ -9321,7 +9321,7 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 
 /* mobile devices */
 
-@media (max-width: 425px) {
+@media (max-width: 430px) {
 	.header-container.container {
 		height: 92px !important;
 	}
@@ -9343,6 +9343,10 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 
 .mb-4.text-4 {
     font-size: 19px !important;
+}
+
+.owl-carousel.nav-bottom.nav-bottom-align-left .owl-nav {
+    text-align: center !important;
 }
  
 }
